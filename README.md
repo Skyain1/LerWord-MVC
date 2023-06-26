@@ -7,7 +7,7 @@ Diagram of a standardly implemented MVC pattern
 
 ## Screenshots
 Screenshot of each window
-<img src="app/src/main/res/raw/screenshot_login" ></img>
-<img src="app/src/main/res/raw/screenshot_registration" ></img>
-<img src="app/src/main/res/raw/screenshot_cardview" ></img>
+<img src="app/src/main/res/raw/screenshot_login.jpg" ></img>
+<img src="app/src/main/res/raw/screenshot_registration.jpg" ></img>
+<img src="app/src/main/res/raw/screenshot_cardview.jpg" ></img>
 

@@ -23,8 +23,9 @@ The model is presented in the form of two repositories that provide suspend func
 View are the generated classes, thus the activity code remains almost empty
 - `ActivityImplementor` - classes for each screen
 - `Activity` - classic activity to support the life cycle
-- 'Adapter && AdpterImplemetor' - adapter for recyclerview
+- `Adapter` && `AdapterImplementor` - adapter for recyclerview
   
 #### Controller
 Controllers store all application logic
+
 
